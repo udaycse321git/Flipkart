@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyCucumberProject-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MyCucumberProject/MyCucumberProject/target/MyCucumberProject-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
